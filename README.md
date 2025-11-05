@@ -48,9 +48,6 @@
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=dyeorn&show_icons=true&locale=en&theme=tokyonight" alt="joao pedro stats" />
     </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=dyeorn&show_icons=true&theme=tokyonight&locale=en" alt="joao pedro stats" />
-    </td>
   </tr>
 </table>
 
