@@ -6,11 +6,11 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
   <img width="12" />
+  <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*A4-k_sI5kmrphjS4tJ_rpA.png" height="60" alt="google ai sdk logo"  />
+  <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" height="60" alt="pandas logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="60" alt="scikit_learn logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="60" alt="google cloud logo" />
   <img width="12" />
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="60" alt="seaborn logo"  />
   <img width="12" />
@@ -49,6 +49,9 @@
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=dyeorn&show_icons=true&locale=en&theme=tokyonight" alt="joao pedro stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=dyeorn&show_icons=true&theme=tokyonight&locale=en" alt="joao pedro stats" />
     </td>
   </tr>
 </table>
